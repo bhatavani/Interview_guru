@@ -39,7 +39,7 @@ There is a clear demand for an accessible, AI-driven platform that enables stude
 
 | Layer        | Technologies                                  |
 |--------------|-----------------------------------------------|
-| Frontend     | React.js, Tailwind CSS                        |
+| Frontend     | React.js, CSS                                 |
 | Backend      | Node.js, Express                              |
 | Database     | MongoDB                                       |
 | AI/NLP       | Gemini Pro (via REST API)                     |
