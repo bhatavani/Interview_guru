@@ -47,7 +47,7 @@ There is a clear demand for an accessible, AI-driven platform that enables stude
 
 ---
 
-## ✅ Current Progress
+## ✅ Core Implementations
 
 - Firebase Authentication (Signup/Login)
 - Role-Based Routing (Student/Admin views)
